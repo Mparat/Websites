@@ -1,0 +1,10 @@
+body {background-color: #FE9A2E} 
+h1 {background-color: DodgerBlue; font-family:Helvetica; font-size:35px; text-align:center; background-attachment: fixed;}
+p {color:#FE9A2E} 
+bdo {color: #FE9A2E}
+thead {color:Black;}
+tbody {color:#0B0B61;}
+table {background-color: LightCoral;}
+body {background-image: url('beach.jpg');background-repeat: repeat-1;background-attachment: fixed;}
+#footer {background-color: orchid; text-align: center; background-attachment: scroll;}
+#intro {color: GreenYellow}

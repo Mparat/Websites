@@ -1,0 +1,18 @@
+body{background-color: white;}
+
+#title {text-align: center; font-size: 20px; font-family: Arial; color: black;}
+
+#apple {position: absolute; left: 20%; top: 125px}
+
+h3 {font-style: italic; font-size: 18px}
+h4 {font-style: italic; font-size: 18px}
+h5 {font-style: italic; font-size: 18px}
+#other {position: absolute; color: gray; left: 70%; top: 135px}
+#TEDxWebsite {font-family: Times; position: relative; left: 24.5%; top: 175px;}
+#webInfo {border-style: solid; border-width: 2px;text-indent: 30px; font-family: Times; font-size: 15px; font-weight: lighter; color: black; position: relative; left: 0%; top: 10%; width: 550px}
+#game {font-family: Times; position: relative; left: -390px; top: -295px;}
+#gameInfo {border-style: solid; border-width: 2px;text-indent: 30px; font-family: Times; font-size: 15px; font-weight: lighter; color: black; position: relative; left: 0%; top: 10%; width: 550px}
+#app {font-family: Times; position: relative; left: -390px; top: -250px;}
+figcaption {font-size: 12px}
+#appInfo {border-style: solid; border-width: 2px;text-indent: 30px; font-family: Times; font-size: 15px; font-weight: lighter; color: black; position: relative; left: 0%; top: 10%; width: 550px}
+

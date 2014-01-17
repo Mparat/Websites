@@ -1,0 +1,19 @@
+body {background-image: url('GRTBumper.jpeg'); background-size: cover; opacity: 0.9;background-position: center center; background-repeat: no-repeat; background-attachment: fixed;}
+
+#title {text-align: center; font-family: Helvetica; color: black;}
+
+#middleBlock {background-color: white; background-attachment: scroll;  position: absolute; top: 16%; left: 0px; right: 0px; height: 550px}
+#GRTLogo {background-attachment: scroll; position: fixed; left: 6%; top: 42%; opacity: 0.8}
+#intro {text-indent: 30px; position: absolute; left: 40px; width: 430px; top: 17%; font-family: Courier New;}
+
+#year12 {background-attachment: scroll; position: absolute; left: 45%; top: 18%; opacity: 0.3;}
+#year12:hover {opacity: 1.0; color: red}
+#Description12 {font-family: Times; font-size: 13px; font-weight: lighter; color: black; position: fixed; left: 65%; top: 22%}
+#year13 {background-attachment: scroll; position: absolute; left: 41.5%; top: 57%; opacity: 0.3;}
+#year13:hover {opacity: 1.0;}
+#Description13 {font-family: Times; font-size: 13px; font-weight: lighter; color: black; position: fixed; left: 67%; top: 55%}
+
+
+#gmail {background-attachment: scroll; position: absolute; left: 45%; top: 90%;}
+#twitter {background-attachment: scroll; position: absolute; left: 50%; top: 90%;}
+#facebook {background-attachment: scroll; position: absolute; left: 55%; top: 90.5%;}
